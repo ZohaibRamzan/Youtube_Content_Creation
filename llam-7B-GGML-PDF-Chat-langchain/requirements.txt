@@ -1,0 +1,7 @@
+pypdf
+langchain
+chainlit
+sentence_transformers
+faiss-cpu
+ctransformers
+huggingface
