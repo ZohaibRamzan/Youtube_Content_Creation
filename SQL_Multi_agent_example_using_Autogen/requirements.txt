@@ -1,0 +1,7 @@
+pyautogen
+openai
+sqlalchemy
+pymysql
+langchain
+python-dotenv
+pandas
